@@ -1,8 +1,7 @@
 #Example about arrays:
 import numpy as np, random
 
-# 1- a program to multiply 2d arrays using numpy:
-# 2D array initializing with dot product:
+# 1-2D array initializing with dot product:
 arr1 = np.array([[1,2,3],[4,5,6]]) # 2*3
 arr2 = np.array([[1,2],[3,4],[5,6]]) #3*2
 result = np.dot(arr1,arr2) 
